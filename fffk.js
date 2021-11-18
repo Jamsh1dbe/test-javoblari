@@ -5,7 +5,7 @@
 // 2.“ “ ni ishiga “” ni qiqish qanday bo`ladi?
 // "\"jamshid\""
 // 3.Stringni o`rtasiga string tiqish qanday boladi?
-// `asfasfasf,$'jamshid' fasfasf`
+// `asfasfasf,$'jamshid' fasfasf`    
 // 4.Arrow funksiya qanday yasaladi?
 // const kk =()=>{}
 // 5.||    qiymat berildi qaysi holatda true chiqadi?
@@ -59,4 +59,10 @@
 // 24.typeofnima ?
 // taypini chiqaradi
 // 25. if ga (agar teng bolmasa) degan qiymatni qanday yozamiz?
-// !=
+// !=  
+
+
+
+
+
+
